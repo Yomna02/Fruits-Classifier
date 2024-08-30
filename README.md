@@ -1,1 +1,1 @@
-# Fruits-Classifier-NN
+# Fruits-Classifier
